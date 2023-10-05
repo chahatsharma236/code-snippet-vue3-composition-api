@@ -40,7 +40,7 @@ This Vue 3 snippet includes the crud operations for posts, authors, and categori
 * Clone the repository
 
     ```sh
-    git clone https://github.com/webethics/code-snippet-vue3-composition-api.git
+    git clone https://github.com/chahatsharma236/code-snippet-vue3-composition-api.git
     npm install
     ```
 
